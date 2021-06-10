@@ -45,4 +45,4 @@ rb2Radiobutton.place( x = 70, y = 50)
 
 win.title("checklist App")
 win.geometry( "400x300+10+10")
-win.mainloop()
+win.mainloo
